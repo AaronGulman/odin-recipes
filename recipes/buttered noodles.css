@@ -1,0 +1,71 @@
+
+body {
+	background: linear-gradient(to right, #ff7e5f, #feb47b);
+
+}
+
+.header {
+	color:rgb(57, 30, 30);
+	text-align: center;
+	right: 10%;
+	font-size: 30px;
+}
+
+.photo.one {
+	position: absolute;
+	right: 50%;
+	left: 50%;
+	top:45%;
+	transform: translate(-50%, -50%);
+
+}
+
+.description {
+	color:rgb(57, 30, 30);
+	position: absolute;
+	left: 10%;
+	top: 120px;
+
+}
+
+      
+.homepage button {
+	background-color: rgb(175, 130, 42);
+	color: #ffffff;
+	padding: 10px 30px; 
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	position:fixed;
+	top:5%;
+	right:5%;
+
+}
+
+.Ingredients {
+	color:rgb(57, 30, 30);
+	left:10%;
+	top:27%;
+	position:absolute;
+}
+
+.textlist {
+	left: 8%;
+	position: absolute;	
+	top: 32%;		
+}
+
+.text-box {
+	color:rgb(57, 30, 30);
+	left:10%;
+	top:55%;
+	position:absolute;
+      }
+
+#howto {
+	left: 8%;
+	position: absolute;	
+	top: 60%;
+
+}
+

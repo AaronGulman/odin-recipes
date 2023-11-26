@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #FFECD2, #FCB69F);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana 'Times New Roman', Times, serif;
+}
+
+.header.here {
+  font-weight: bold;
+  color: rgb(57, 30, 30);
+  text-align: center;
+  font-size: 50px;
+  font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+#listthere {
+  font-weight: bold;
+  text-align: center;
+  font-size: 28px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+  color: rgb(57, 30, 30);
+}
